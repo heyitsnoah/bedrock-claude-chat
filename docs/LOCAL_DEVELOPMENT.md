@@ -24,7 +24,7 @@ When streaming is enabled, text is generated in real-time due to the streaming o
 
 ## Using docker compose
 
-If you prefer to handle all of resources as Docker, [docker-compose.yml](./docker-compose.yml) allows you to run and develop frontend / backend APIs / DynamoDB Local in your local environment.
+If you prefer to handle all of resources as Docker, [docker-compose.yml](../docker-compose.yml) allows you to run and develop frontend / backend APIs / DynamoDB Local in your local environment.
 
 ```bash
 # Build containers
